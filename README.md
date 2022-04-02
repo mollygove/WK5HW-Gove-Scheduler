@@ -12,6 +12,8 @@ AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 
+<img src="Assets\Images\05-third-party-apis-homework-demo.gif>
+
 ## Usage
 
 Click here for Calendar: https://mollygove.github.io/WK5HW-Gove-Scheduler/
