@@ -2,17 +2,17 @@
 
 ## Description
 
-I have recreated a calendar app which allows me to save appointments for each hour of the day. This app runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+I have recreated a calendar app which allows me to save appointments for each hour of the day. This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
 
 I have used [Moment.js](https://momentjs.com/) library to work with date and time as learned in class. 
 
 ## User Story
 
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
+AS AN employee with a busy schedule,
+I WANT to add important events to a daily planner,
+SO THAT I can manage my time effectively.
 
-<img src="./Assets/Images/05-third-party-apis-homework-demo.png" alt="Image of Landing Page"> 
+<img src="Assets\Images\05-third-party-apis-homework-demo.gif" alt="Image of Landing Page"> 
 
 ## Usage
 
