@@ -28,7 +28,7 @@ WHEN you view timeblocks for that day, it is color coded to indicate whether it 
 THEN the text for that event is saved in local storage
 
 7. Refresh the page to see event entered.
-T
+
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
