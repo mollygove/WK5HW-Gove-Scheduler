@@ -14,6 +14,10 @@ SO THAT I can manage my time effectively
 
 ## Usage
 
+Click here for Calendar: https://mollygove.github.io/WK5HW-Gove-Scheduler/
+
+Click here for Git Hub: https://github.com/mollygove/WK5HW-Gove-Scheduler
+
 1. Use a daily planner to create a schedule
 2. Open the planner
 3. The current day is displayed at top of the calendar
@@ -31,8 +35,6 @@ THEN the text for that event is saved in local storage
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+Worked with classmate Oscar Salgado.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+https://momentjs.com/docs/
