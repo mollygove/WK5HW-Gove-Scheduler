@@ -24,8 +24,8 @@ Click here for Git Hub: https://github.com/mollygove/WK5HW-Gove-Scheduler
 2. Open the planner
 3. The current day is displayed at top of the calendar
 
-IF you scroll down, you will timeblocks for standard business hours.
-WHEN you view timeblocks for that day, it is color coded to indicate whether it is in the past, present, or future.
+IF you scroll down, you will see timeblocks for standard business hours.
+WHEN you view timeblocks for that day, it is color coded indicating whether it is in the past, present, or future.
 
 4. Click into a timeblock
 5. Enter an event
@@ -40,3 +40,5 @@ THEN the text for that event is saved in local storage
 Worked with classmate Oscar Salgado.
 
 https://momentjs.com/docs/
+
+https://cdnjs.com/libraries/moment.js
